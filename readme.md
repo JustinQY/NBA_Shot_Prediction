@@ -11,8 +11,9 @@ Predict the outcome of an NBA shot attempt using game context, player behavior, 
 A binary classification (`Made` vs `Missed`) using models like Logistic Regression, Random Forest, and Neural Networks.
 
 **Team Members:**  
-- Junchen Ge  
-- YiBo Qiao  
+
+- Gary Qiao  
+- Junchen Ge
 - Yang Zhang
 
 ## Dataset
